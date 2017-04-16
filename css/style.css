@@ -1,0 +1,110 @@
+body{
+	margin:0px;
+	padding: 0px;
+	    background: #D6DBEA;
+}
+.main-content{}
+
+.header{
+	    width: 100%
+    margin: 0 auto;
+    overflow: hidden;
+       background: #3B5998;
+}
+
+.container{
+	width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.fb-logo{
+	    width: 50%;
+   float: left;
+}
+
+.fb-logo img{
+	    width: 175px;
+    height: 62px;
+}
+
+.login-form{
+	    width: 50%;
+    float: right;
+}
+
+.body-section{}
+
+.content{
+	    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.left{
+	    width: 50%;
+    float: left;
+}
+
+.left p{
+	    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.right{
+	    width: 50%;
+    float: right;
+}
+
+.fullname{
+	width: 152px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
+    padding: 8px;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.surname{
+	width: 152px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
+    padding: 8px;
+    font-size: 15px;
+    overflow: hidden;
+}
+.email{
+	width: 330px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
+    padding: 8px;
+    font-size: 15px;
+    overflow: hidden;
+}
+.password{
+	width: 330px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
+    padding: 8px;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.submit{
+	    width: 180px;
+    height: 35px;
+    background: green;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.footar p{
+	        color: blue;
+    padding: 0px 0px 0px 175px;
+}
